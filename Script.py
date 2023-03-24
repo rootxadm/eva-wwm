@@ -4,7 +4,7 @@ Im A Advanced AutoFiler Bot I Only Work In MovieFlix Group.. """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """<b>About:</b>   
-<b>○ My Name  :</b> <code> MovieFlix Bot</code>
+<b>○ My Name  :</b> <code>MovieFlix Bot</code>
 <b>○ Creator :</b> <a href="https://t.me/Physic_hybrid">Physic_Hybrid🇵🇹</a>
 <b>○ Credits :</b> <code>Everyone in this journey</code>
 <b>○ Language :</b> <code>Python3</code>
