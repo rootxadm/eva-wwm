@@ -10,7 +10,6 @@ Im A Advanced AutoFiler Bot I Only Work In MovieFlix Group.. """
 <b>○ Language :</b> <code>Python3</code>
 <b>○ Library :</b> <a href="https://docs.pyrogram.org/">Pyrogram asyncio 0.17.1</a>
 <b>○ Supported Site :</b> <a href="https://my.telegram.org/">Only Telegram</a>
-<b>○ Source Code :</b> <a href="https://t.me/AdhavaaBiriyaniKittiyalo">👉 Click Here</a>
 <b>○ Server :</b> <a href="https://vpsdime.com/">Vpsdime</a>
 <b>○ Database :</b> <a href="https://www.mongodb.com/">MongoDB</a>
 <b>○ Build Status :</b> <code>V3.1 [BETA]</code>"""
