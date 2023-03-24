@@ -43,7 +43,6 @@ async def start(client, message):
     if len(message.command) != 2:
         buttons = [[
            
-            InlineKeyboardButton(' Updates', url='https://t.me/+Bd5SeJPRstFjNjc1')
             ],[
             InlineKeyboardButton('Help', callback_data='help'),
             InlineKeyboardButton(' About', callback_data='about')
