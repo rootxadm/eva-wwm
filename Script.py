@@ -13,7 +13,7 @@ Im A Advanced AutoFiler Bot I Only Work In MovieFlix Group.. """
 <b>○ Source Code :</b> <a href="https://t.me/AdhavaaBiriyaniKittiyalo">👉 Click Here</a>
 <b>○ Server :</b> <a href="https://vpsdime.com/">Vpsdime</a>
 <b>○ Database :</b> <a href="https://www.mongodb.com/">MongoDB</a>
-<b>○ Build Status :</b> <code>V3.1 [BETA]</code>
+<b>○ Build Status :</b> <code>V3.1 [BETA]</code>"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
 - Source - https://github.com/EvamariaTG/EvaMaria  
