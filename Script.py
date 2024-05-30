@@ -5,12 +5,12 @@ Im A Advanced AutoFiler Bot I Only Work In MovieFlix Group.. """
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """<b>About:</b>   
 <b>○ My Name  :</b> <code>MovieFlix Bot</code>
-<b>○ Creator :</b> <a href="https://t.me/Physic_hybrid">Physic_Hybrid🇵🇹</a>
+<b>○ Creator :</b> <a href="https://t.me/Malayalam_Chatting">Malayalam_Chatting🇵🇹</a>
 <b>○ Credits :</b> <code>Everyone in this journey</code>
 <b>○ Language :</b> <code>Python3</code>
 <b>○ Library :</b> <a href="https://docs.pyrogram.org/">Pyrogram asyncio 0.17.1</a>
 <b>○ Supported Site :</b> <a href="https://my.telegram.org/">Only Telegram</a>
-<b>○ Server :</b> <a href="https://vpsdime.com/">Vpsdime</a>
+<b>○ Server :</b> <a href="https://t.me/wwm_weekly_update">DigitalOcean</a>
 <b>○ Database :</b> <a href="https://www.mongodb.com/">MongoDB</a>
 <b>○ Build Status :</b> <code>V3.1 [BETA]</code>"""
     SOURCE_TXT = """<b>NOTE:</b>
@@ -18,7 +18,7 @@ Im A Advanced AutoFiler Bot I Only Work In MovieFlix Group.. """
 - Source - https://github.com/EvamariaTG/EvaMaria  
 
 <b>DEVS:</b>
-- <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
+- <a href=https://t.me/world_wide_movies>Team Eva Maria</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
@@ -43,7 +43,7 @@ Im A Advanced AutoFiler Bot I Only Work In MovieFlix Group.. """
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/EvaMariaBot)</code>
+<code>[Button Text](buttonurl:https://t.me/WWM_NEWBot)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
